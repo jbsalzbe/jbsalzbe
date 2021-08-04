@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning goto 2
 - 💞️ I’m looking to collaborate on goto 3
-- 📫 How to reach me @ github; I'm will update accordingly.
+- 📫 How to reach me @ github; I'm new & will update accordingly.
 
 
 <!---
